@@ -55,8 +55,6 @@
 		699CBF3C1A39AD8700DFAE57 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		699CBF3D1A39AD8700DFAE57 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		699CBF451A39AD8700DFAE57 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		699CBF531A39AD8700DFAE57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		699CBF541A39AD8700DFAE57 /* DLSlideViewDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DLSlideViewDemoTests.m; sourceTree = "<group>"; };
 		699CBF5E1A39AFAB00DFAE57 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		699CBF631A39B06800DFAE57 /* DLSlideView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DLSlideView.h; sourceTree = "<group>"; };
 		699CBF641A39B06800DFAE57 /* DLSlideView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DLSlideView.m; sourceTree = "<group>"; };
@@ -174,7 +172,6 @@
 		699CBF511A39AD8700DFAE57 /* DLSlideViewDemoTests */ = {
 			isa = PBXGroup;
 			children = (
-				699CBF541A39AD8700DFAE57 /* DLSlideViewDemoTests.m */,
 				699CBF521A39AD8700DFAE57 /* Supporting Files */,
 			);
 			path = DLSlideViewDemoTests;
@@ -183,7 +180,6 @@
 		699CBF521A39AD8700DFAE57 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				699CBF531A39AD8700DFAE57 /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
