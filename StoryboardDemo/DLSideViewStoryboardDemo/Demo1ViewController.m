@@ -7,7 +7,6 @@
 //
 
 #import "Demo1ViewController.h"
-#import "DLImagedTabbarView.h"
 #import "OneViewController.h"
 #import "TwoViewController.h"
 #import "ThreeViewController.h"
