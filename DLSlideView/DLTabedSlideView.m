@@ -89,6 +89,9 @@
     slideView_.baseViewController = baseViewController;
 }
 
+/**
+ * 构建
+ */
 - (void)buildTabbar{
     NSMutableArray *tabbarItems = [NSMutableArray array];
     for (DLTabedbarItem *item in self.tabbarItems) {
